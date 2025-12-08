@@ -12,7 +12,7 @@ The notebook provides the solutions to five given problems, being:
 2. **Fractional Parts of Cube Roots** - Calculate the constants defined in the Secure Hash Standard by finding the fractional parts of the cube roots of the first 64 prime numbers.
 3. **Padding** - Implement the pre-processing step by padding a given message with '0's so that its bit length is congruent to 448 mod 512.
 4. **Hashes** - Acquire the final hash value (message digest) of a given input.
-5. **Passwords** - Crack three given passwords that were hashed using one pass of the SHA-256 algroithm, highlighting the necessity choosing secure passwords.
+5. **Passwords** - Crack three given passwords that were hashed using one pass of the SHA-256 algroithm, highlighting the necessity of choosing secure passwords.
 
 ## Contents
 
