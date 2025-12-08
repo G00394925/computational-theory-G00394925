@@ -1,6 +1,7 @@
 # Computational Theory
 
-**Author**: Macdarach Carty Joyce - G00394925
+**Author**: Macdarach Carty Joyce
+**Student ID**: G00394925
 
 ## Overview
 
@@ -17,7 +18,7 @@ The notebook provides the solutions to five given problems, being:
 ## Contents
 
 - `problems.ipynb` - Jupyter notebook containing all of the code solutions to five problems, as well as providing insight in markdown cells
-- `most=common-pwds.txt` - Text file containing 10,000 of the most commonly used passwords, which is used to crack a given collection of hashed passwords
+- `most-common-pwds.txt` - Text file containing 10,000 of the most commonly used passwords, which is used to crack a given collection of hashed passwords
 
 ## Requirements
 
