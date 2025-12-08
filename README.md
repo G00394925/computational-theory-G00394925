@@ -1,6 +1,6 @@
 # Computational Theory
 
-**Author**: Macdarach Carty Joyce
+**Author**: Macdarach Carty Joyce <br>
 **Student ID**: G00394925
 
 ## Overview
